@@ -1,1 +1,4 @@
-# nhallajian.github.io
+- [hyperzine](https://hyperzine.navid.io)
+- [linkedin](https://www.linkedin.com/in/navidhg/)
+- [mastodon](https://mastodon.social/@navidhg)
+- [bluesky](https://bsky.app/profile/navidhg.bsky.social)
